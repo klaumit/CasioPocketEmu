@@ -23,7 +23,7 @@ jobs:
       run: chmod +x prepare.sh && ./prepare.sh
   
     - name: Restore dependencies
-      run: dotnet restore parent/all.sln
+      run: dotnet restore
 
     - name: Build
       run: dotnet build --no-restore
