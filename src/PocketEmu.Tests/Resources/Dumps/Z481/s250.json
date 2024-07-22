@@ -5,7 +5,7 @@
   "TimeStamp": "2000-06-16T23:06:00",
   "Version": "1.2",
   "DeviceStamp": "2000-01-18T00:00:00",
-  "DeviceModel": "Unknown",
+  "DeviceModel": "Z481",
   "AddIns": {
     "FileAddress { Start = 131072, End = 168814 }": {
       "Signature": "CASIO",
