@@ -7,6 +7,16 @@ namespace PocketEmu.Tests
     public class FirmwareTest
     {
         [Theory]
+        [InlineData("sscxp_400")]
+        [InlineData("sscxp_600")]
+        public void ShouldReadG501(string fileName)
+        {
+            var dir = Path.Combine("Resources", "Dumps", "G501");
+            DoShouldRead(dir, fileName);
+        }
+
+        [Theory]
+        [InlineData("sscxp_460")]
         [InlineData("Ultra_Sx60")]
         public void ShouldReadG500(string fileName)
         {
@@ -16,6 +26,8 @@ namespace PocketEmu.Tests
 
         [Theory]
         [InlineData("s250")]
+        [InlineData("ssc_pvos")]
+        [InlineData("sscxp_250")]
         public void ShouldReadZ481(string fileName)
         {
             var dir = Path.Combine("Resources", "Dumps", "Z481");
@@ -27,6 +39,8 @@ namespace PocketEmu.Tests
         [InlineData("250X_111")]
         [InlineData("450X_101")]
         [InlineData("450X_111")]
+        [InlineData("sscxp_250x")]
+        [InlineData("sscxp_450x")]
         public void ShouldReadZ486(string fileName)
         {
             var dir = Path.Combine("Resources", "Dumps", "Z486");
