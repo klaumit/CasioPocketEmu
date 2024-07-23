@@ -18,7 +18,12 @@ namespace PocketEmu.Tests
         }
 
         [Theory]
+        [InlineData("Dumper_1.07")]
+        [InlineData("jgirls3_1.0")]
+        [InlineData("Mystrpg_1.0")]
         [InlineData("Puzzle_1.0")]
+        [InlineData("PVMerlin4_4.01")]
+        [InlineData("Sample_1.0")]
         public void ShouldReadZ488(string fileName)
         {
             var dir = Path.Combine("Resources", "Addins", "Z488");
