@@ -32,5 +32,13 @@ namespace PocketEmu.Tests
             var dir = Path.Combine("Resources", "Dumps", "Z486");
             DoShouldRead(dir, fileName);
         }
+
+        [Theory]
+        [InlineData("sscxp_750")]
+        public void ShouldReadZ488(string fileName)
+        {
+            var dir = Path.Combine("Resources", "Dumps", "Z488");
+            DoShouldRead(dir, fileName);
+        }
     }
 }

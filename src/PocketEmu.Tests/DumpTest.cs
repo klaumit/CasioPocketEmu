@@ -35,6 +35,8 @@ namespace PocketEmu.Tests
 
         [Theory]
         [InlineData("750plus")]
+        [InlineData("750up120")]
+        [InlineData("sscxp_750")]
         public void ShouldReadZ488(string fileName)
         {
             var dir = Path.Combine("Resources", "Dumps", "Z488");
