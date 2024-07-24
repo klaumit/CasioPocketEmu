@@ -7,6 +7,7 @@ namespace PocketEmu.Tests
     public class AddInTest
     {
         [Theory]
+        [InlineData("CalcRus")]
         [InlineData("GetOS2_1.2")]
         [InlineData("GetOS_1.2")]
         [InlineData("Puzzle_1.0")]
