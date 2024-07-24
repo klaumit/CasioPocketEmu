@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "sim48",
+  "Size": 79012,
+  "Compiled": "2002-01-20T17:41:00",
+  "Version": "2.0",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 78752,
+  "OffsetLIcon": 78928,
+  "UserComment": ""
+}

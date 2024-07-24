@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "OWBasic",
+  "Size": 130580,
+  "Compiled": "2012-09-26T20:59:00",
+  "Version": "5.25",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 130320,
+  "OffsetLIcon": 130496,
+  "UserComment": ""
+}

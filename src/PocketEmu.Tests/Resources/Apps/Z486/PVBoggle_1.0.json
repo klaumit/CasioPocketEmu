@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PVBoggle",
+  "Size": 131940,
+  "Compiled": "2003-06-20T16:35:00",
+  "Version": "1.0",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 131680,
+  "OffsetLIcon": 131856,
+  "UserComment": ""
+}

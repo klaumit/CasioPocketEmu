@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "MenuPlus",
+  "Size": 41076,
+  "Compiled": "2004-10-30T17:32:00",
+  "Version": "1.2",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 40816,
+  "OffsetLIcon": 40992,
+  "UserComment": ""
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "SciCalc",
+  "Size": 52260,
+  "Compiled": "2000-10-30T07:09:00",
+  "Version": "2.0",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 52000,
+  "OffsetLIcon": 52176,
+  "UserComment": ""
+}

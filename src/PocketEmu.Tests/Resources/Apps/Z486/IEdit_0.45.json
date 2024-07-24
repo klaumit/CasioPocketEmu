@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "IEdit",
+  "Size": 61828,
+  "Compiled": "2002-02-24T15:12:00",
+  "Version": "0.45",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 61568,
+  "OffsetLIcon": 61744,
+  "UserComment": ""
+}

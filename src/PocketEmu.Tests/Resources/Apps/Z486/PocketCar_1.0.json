@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "Pocket Car",
+  "Size": 20852,
+  "Compiled": "2000-10-25T22:51:00",
+  "Version": "1.0",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 20608,
+  "OffsetLIcon": 20768,
+  "UserComment": ""
+}

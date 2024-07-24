@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PayKorr",
+  "Size": 3284,
+  "Compiled": "2005-10-27T12:54:00",
+  "Version": "1.0",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 3024,
+  "OffsetLIcon": 3200,
+  "UserComment": ""
+}

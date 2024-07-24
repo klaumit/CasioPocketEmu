@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PVAddInMan",
+  "Size": 34068,
+  "Compiled": "2001-11-05T22:47:00",
+  "Version": "4.10",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 33808,
+  "OffsetLIcon": 33984,
+  "UserComment": ""
+}

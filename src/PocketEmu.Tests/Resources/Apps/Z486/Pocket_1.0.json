@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "Pocket",
+  "Size": 5496,
+  "Compiled": "2000-06-18T14:38:00",
+  "Version": "1.0",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 5232,
+  "OffsetLIcon": 5408,
+  "UserComment": ""
+}

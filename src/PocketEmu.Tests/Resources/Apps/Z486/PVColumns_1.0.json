@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PVColumns",
+  "Size": 22532,
+  "Compiled": "2001-12-07T12:01:00",
+  "Version": "1.0",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 22272,
+  "OffsetLIcon": 22448,
+  "UserComment": ""
+}

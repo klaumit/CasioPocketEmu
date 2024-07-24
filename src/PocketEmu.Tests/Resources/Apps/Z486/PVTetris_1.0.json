@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PVTetris",
+  "Size": 30292,
+  "Compiled": "2001-10-28T20:46:00",
+  "Version": "1.0",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 30032,
+  "OffsetLIcon": 30208,
+  "UserComment": ""
+}

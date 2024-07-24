@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Internal1",
+  "Mode": "Game",
+  "Name": "PVMail",
+  "Size": 33172,
+  "Compiled": "2003-03-28T15:04:00",
+  "Version": "2.4",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 32912,
+  "OffsetLIcon": 33088,
+  "UserComment": ""
+}

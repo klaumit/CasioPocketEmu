@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "Illuminator",
+  "Size": 16256,
+  "Compiled": "2001-02-09T17:11:00",
+  "Version": "0.1",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 16000,
+  "OffsetLIcon": 16176,
+  "UserComment": ""
+}

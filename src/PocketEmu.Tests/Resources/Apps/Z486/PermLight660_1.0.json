@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PermLight660",
+  "Size": 10180,
+  "Compiled": "2002-12-29T20:37:00",
+  "Version": "1.0",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 9920,
+  "OffsetLIcon": 10096,
+  "UserComment": ""
+}

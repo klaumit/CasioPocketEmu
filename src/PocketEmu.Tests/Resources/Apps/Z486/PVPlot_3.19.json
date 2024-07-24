@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PVPlot",
+  "Size": 73508,
+  "Compiled": "2004-02-07T01:25:00",
+  "Version": "3.19",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 73248,
+  "OffsetLIcon": 73424,
+  "UserComment": ""
+}

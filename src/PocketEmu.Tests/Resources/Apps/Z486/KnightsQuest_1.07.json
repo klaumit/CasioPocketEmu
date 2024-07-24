@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "Knight's Quest",
+  "Size": 53932,
+  "Compiled": "2002-03-30T04:59:00",
+  "Version": "1.7",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 53584,
+  "OffsetLIcon": 53760,
+  "UserComment": ""
+}

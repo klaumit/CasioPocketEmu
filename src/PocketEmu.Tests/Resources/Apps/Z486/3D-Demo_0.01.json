@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "3D-Demo",
+  "Size": 15300,
+  "Compiled": "2002-06-17T09:02:00",
+  "Version": "0.1",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 15040,
+  "OffsetLIcon": 15216,
+  "UserComment": ""
+}

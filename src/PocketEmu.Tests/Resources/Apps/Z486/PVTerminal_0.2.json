@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PVTerminal",
+  "Size": 9946,
+  "Compiled": "2002-06-09T00:34:00",
+  "Version": "0.20",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 4294967295,
+  "OffsetLIcon": 4294967295,
+  "UserComment": ""
+}

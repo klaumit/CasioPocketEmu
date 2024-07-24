@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "LeverPush",
+  "Size": 19748,
+  "Compiled": "2004-01-07T21:11:00",
+  "Version": "1.0",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 19488,
+  "OffsetLIcon": 19664,
+  "UserComment": ""
+}

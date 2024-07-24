@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "MemView",
+  "Size": 3426,
+  "Compiled": "2003-01-11T22:21:00",
+  "Version": "1.3",
+  "Library": "2003-01-04T21:57:00",
+  "LibraryVersion": "1.2",
+  "OffsetIcon": 3170,
+  "OffsetLIcon": 3342,
+  "UserComment": "Casio PV Memory Viewer by Dreamer2"
+}

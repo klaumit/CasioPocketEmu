@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "StdAlarm",
+  "Size": 12468,
+  "Compiled": "2003-02-20T18:24:00",
+  "Version": "1.0",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 12208,
+  "OffsetLIcon": 12384,
+  "UserComment": ""
+}
