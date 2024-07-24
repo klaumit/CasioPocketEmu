@@ -38,6 +38,7 @@ namespace PocketEmu.Tests
         [Theory]
         [InlineData("250X_101")]
         [InlineData("250X_111")]
+        [InlineData("250x_rus")]
         [InlineData("450X_101")]
         [InlineData("450X_111")]
         [InlineData("450x_rus")]
