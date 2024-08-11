@@ -1,0 +1,6 @@
+#!/bin/sh
+dotnet build
+rm -R parent/test/PoViEmu.Tests/TestResults
+rm -R src/PocketEmu.Tests/TestResults
+dotnet test --collect:"XPlat Code Coverage"
+reportgenerator -reports:**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html

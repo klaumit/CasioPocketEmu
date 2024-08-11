@@ -400,4 +400,4 @@ FodyWeavers.xsd
 # Ignore tree
 parent/
 .idea/
-
+/coverage/
