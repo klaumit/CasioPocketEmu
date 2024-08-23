@@ -1,7 +1,6 @@
 using System.IO;
 using Xunit;
 using static PoViEmu.Tests.FirmwareCheck;
-using static PoViEmu.Tests.FirmwareTest;
 
 namespace PocketEmu.Tests
 {
