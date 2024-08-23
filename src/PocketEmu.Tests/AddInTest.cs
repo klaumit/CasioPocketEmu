@@ -1,5 +1,6 @@
 using System.IO;
 using Xunit;
+using static PoViEmu.Tests.AddInCheck;
 using static PoViEmu.Tests.AddInTest;
 
 namespace PocketEmu.Tests
