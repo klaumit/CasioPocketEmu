@@ -252,7 +252,7 @@
       "Model": "Z488",
       "HeaderVersion": "1.0",
       "Status": "Internal1",
-      "Mode": 4096,
+      "Mode": "Mail",
       "Name": "",
       "Size": 127852,
       "Compiled": "2000-10-03T16:07:00",
