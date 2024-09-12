@@ -5,12 +5,12 @@
   "Status": "Regular",
   "Mode": "SdkBuilt",
   "Name": "Sample",
-  "Size": 37412,
-  "Compiled": "2001-04-19T13:31:00",
+  "Size": 37556,
+  "Compiled": "2000-03-08T09:20:00",
   "Version": "1.0",
-  "Library": "2000-11-17T18:47:00",
-  "LibraryVersion": "1.10",
-  "OffsetIcon": 37152,
-  "OffsetLIcon": 37328,
+  "Library": "1999-12-14T10:02:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 37296,
+  "OffsetLIcon": 37472,
   "UserComment": ""
 }

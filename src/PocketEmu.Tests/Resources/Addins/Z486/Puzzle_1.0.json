@@ -5,12 +5,12 @@
   "Status": "Regular",
   "Mode": "SdkBuilt",
   "Name": "Puzzle",
-  "Size": 17924,
-  "Compiled": "2001-04-13T16:35:00",
+  "Size": 17508,
+  "Compiled": "2000-03-08T09:15:00",
   "Version": "1.0",
-  "Library": "2000-11-17T18:47:00",
-  "LibraryVersion": "1.10",
-  "OffsetIcon": 17664,
-  "OffsetLIcon": 17840,
+  "Library": "1999-12-14T10:02:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 17248,
+  "OffsetLIcon": 17424,
   "UserComment": ""
 }
