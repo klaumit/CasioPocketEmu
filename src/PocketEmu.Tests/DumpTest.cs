@@ -44,6 +44,7 @@ namespace PocketEmu.Tests
         [InlineData("450x_rus")]
         [InlineData("sscxp_250x")]
         [InlineData("sscxp_450x")]
+        [InlineData("pv450xrus")]
         public void ShouldReadZ486(string fileName)
         {
             var dir = Path.Combine("Resources", "Dumps", "Z486");
