@@ -16,6 +16,8 @@ namespace PocketEmu.Tests
         [InlineData("Z481", "BIOS_sim")]
         [InlineData("Z486", "BIOS250X")]
         [InlineData("Z486", "BIOS450X")]
+        [InlineData("Z486", "BIOS_simS")]
+        [InlineData("Z486", "BIOS_simD")]
         [InlineData("Z488", "BIOS750")]
         [InlineData("Z488", "BIOS_sim0")]
         [InlineData("Z488", "BIOS_sim1")]
