@@ -11,11 +11,15 @@ namespace PocketEmu.Tests
         [InlineData("GetOS2_1.2")]
         [InlineData("GetOS_1.2")]
         [InlineData("Puzzle_1.0")]
+        [InlineData("PVSheet_UA")]
+        [InlineData("Receiver")]
         [InlineData("Sample_1.0")]
         [InlineData("SSC-Bench_1.1")]
         [InlineData("SSC-Dict_1.1")]
         [InlineData("SSC-Dict_1.25")]
         [InlineData("SSC-TalkTime_1.0")]
+        [InlineData("StartAddIn")]
+        [InlineData("Term")]
         public void ShouldReadZ486(string fileName)
         {
             var dir = Path.Combine("Resources", "Addins", "Z486");
