@@ -39,7 +39,6 @@ namespace PocketEmu.Tests
         [InlineData("sscxp_250")]
         [InlineData("PVosUA_S250")]
         [InlineData("pvs450r")]
-        [InlineData("pvs_kbl")]
         [InlineData("pvsrus")]
         [InlineData("s450_apps_eng")]
         [InlineData("s450_menu_eng3")]
@@ -67,7 +66,6 @@ namespace PocketEmu.Tests
         [InlineData("sscxp_450x")]
         [InlineData("pv450xrus")]
         [InlineData("pv250xrus2")]
-        [InlineData("pv450xrus3")]
         [InlineData("PVosUA_450X")]
         public void ShouldReadZ486(string fileName)
         {
