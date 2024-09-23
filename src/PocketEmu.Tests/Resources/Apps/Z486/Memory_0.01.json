@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "Memory",
+  "Size": 8004,
+  "Compiled": "2001-02-20T14:34:00",
+  "Version": "0.1",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 7744,
+  "OffsetLIcon": 7920,
+  "UserComment": ""
+}

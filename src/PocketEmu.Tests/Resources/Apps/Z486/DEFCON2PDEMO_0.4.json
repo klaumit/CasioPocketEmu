@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "DEFCON2 PDEMO",
+  "Size": 47540,
+  "Compiled": "2002-02-13T22:57:00",
+  "Version": "0.40",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 47280,
+  "OffsetLIcon": 47456,
+  "UserComment": ""
+}

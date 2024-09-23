@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "Mini Book",
+  "Size": 100100,
+  "Compiled": "2001-12-02T15:36:00",
+  "Version": "2.55",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 99840,
+  "OffsetLIcon": 100016,
+  "UserComment": ""
+}

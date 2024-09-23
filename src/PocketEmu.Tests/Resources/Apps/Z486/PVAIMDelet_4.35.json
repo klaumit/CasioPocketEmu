@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": 2063,
+  "Name": "PVAIMDelet",
+  "Size": 40660,
+  "Compiled": "2002-08-19T21:15:00",
+  "Version": "4.35",
+  "Library": "2000-11-17T18:47:00",
+  "LibraryVersion": "1.10",
+  "OffsetIcon": 40400,
+  "OffsetLIcon": 40576,
+  "UserComment": ""
+}

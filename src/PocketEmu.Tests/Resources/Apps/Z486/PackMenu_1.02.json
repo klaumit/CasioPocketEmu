@@ -1,0 +1,16 @@
+﻿{
+  "Signature": "CASIO",
+  "Model": "Z486",
+  "HeaderVersion": "1.0",
+  "Status": "Regular",
+  "Mode": "SdkBuilt",
+  "Name": "PackMenu",
+  "Size": 128884,
+  "Compiled": "2001-02-25T11:08:00",
+  "Version": "1.2",
+  "Library": "2000-02-15T09:40:00",
+  "LibraryVersion": "1.0",
+  "OffsetIcon": 12944,
+  "OffsetLIcon": 13120,
+  "UserComment": ""
+}
