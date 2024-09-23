@@ -17,7 +17,8 @@ namespace PocketEmu.Tests
         [InlineData("Z486", "BIOS250X")]
         [InlineData("Z486", "BIOS450X")]
         [InlineData("Z488", "BIOS750")]
-        [InlineData("Z488", "BIOS_sim")]
+        [InlineData("Z488", "BIOS_sim0")]
+        [InlineData("Z488", "BIOS_sim1")]
         public void ShouldRead(string model, string fileName)
         {
             var dir = Path.Combine("Resources", "Bios", model);
