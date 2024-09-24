@@ -1,0 +1,14 @@
+﻿{
+  "Signature": "PVAPLHEDV20",
+  "Model": "H16",
+  "HeaderVersion": "1.0",
+  "Type": "Application",
+  "Mode": "PV",
+  "Name": "PVFreeMem",
+  "Size": 416,
+  "Compiled": "2002-11-16T16:11:00",
+  "Version": "0.30",
+  "LibraryVersion": "1.0",
+  "SizeIcon": "45, 28",
+  "SizeLIcon": "27, 20"
+}

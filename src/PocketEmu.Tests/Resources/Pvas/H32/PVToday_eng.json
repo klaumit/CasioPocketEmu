@@ -1,0 +1,14 @@
+﻿{
+  "Signature": "PVAPLHEDV20",
+  "Model": "H16",
+  "HeaderVersion": "1.0",
+  "Type": "Application",
+  "Mode": "PV",
+  "Name": "PVToday",
+  "Size": 416,
+  "Compiled": "2003-02-19T19:20:00",
+  "Version": "2.0",
+  "LibraryVersion": "1.0",
+  "SizeIcon": "45, 28",
+  "SizeLIcon": "27, 20"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Signature": "PVAPLHEDV20",
+  "Model": "H16",
+  "HeaderVersion": "1.0",
+  "Type": "Application",
+  "Mode": "PV",
+  "Name": "AtaxxR",
+  "Size": 416,
+  "Compiled": "2004-07-12T12:14:00",
+  "Version": "1.3",
+  "LibraryVersion": "1.0",
+  "SizeIcon": "45, 28",
+  "SizeLIcon": "27, 20"
+}

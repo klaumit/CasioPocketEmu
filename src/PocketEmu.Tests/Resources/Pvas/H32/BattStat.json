@@ -1,0 +1,14 @@
+﻿{
+  "Signature": "PVAPLHEDV20",
+  "Model": "H16",
+  "HeaderVersion": "1.0",
+  "Type": "Application",
+  "Mode": "PV",
+  "Name": "BattStat",
+  "Size": 416,
+  "Compiled": "2003-01-15T15:14:00",
+  "Version": "0.25",
+  "LibraryVersion": "1.0",
+  "SizeIcon": "45, 28",
+  "SizeLIcon": "27, 20"
+}
