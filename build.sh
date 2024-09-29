@@ -1,4 +1,9 @@
 #!/bin/sh
+
+cd parent
+git pull && git status
+cd ..
+
 dotnet build
 rm -R parent/test/PoViEmu.Tests/TestResults
 rm -R src/PocketEmu.Tests/TestResults
