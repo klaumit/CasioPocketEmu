@@ -1,5 +1,5 @@
 ﻿{
-  "Base": "1_PVSx50",
+  "Base": "../1/PVSx50",
   "Models": [
     "PVS450"
   ],
