@@ -1,8 +1,8 @@
 ﻿{
   "Base": "../1/PVSx50",
-  "Models": [
+  "Comments": [
     "PVS250"
   ],
-  "Erased": "ff",
+  "Settings": {},
   "Bunks": []
 }

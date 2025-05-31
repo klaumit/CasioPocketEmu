@@ -1,8 +1,8 @@
 ﻿{
   "Base": "../0/PVSH3",
-  "Models": [
+  "Comments": [
     "PVS1600"
   ],
-  "Erased": "00",
+  "Settings": {},
   "Bunks": []
 }
