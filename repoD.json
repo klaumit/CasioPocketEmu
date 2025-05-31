@@ -1,0 +1,218 @@
+﻿{
+  "Seeds": [
+    "src/PocketEmu.Tests/Resources/Seeds/2"
+  ],
+  "Devices": [
+    {
+      "Changed": "2000-02-16",
+      "Kind": "X86",
+      "Name": "PV-250X",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "Z486",
+      "Label": "PV250X",
+      "Storage": {
+        "Data": "2 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2000-02-16",
+      "Kind": "X86",
+      "Name": "PV-450X",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "Z486",
+      "Label": "PV450X",
+      "Storage": {
+        "Data": "4 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2000-05-15",
+      "Kind": "X86",
+      "Name": "PV-750",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "Z488",
+      "Label": "PV750",
+      "Storage": {
+        "Data": "2 MB"
+      },
+      "Ports": [
+        "RS-232",
+        "IrDA"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2000-05-25",
+      "Kind": "X86",
+      "Name": "PV-S250",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "Z481",
+      "Label": "PVS250",
+      "Storage": {
+        "Data": "2 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2000-05-25",
+      "Kind": "X86",
+      "Name": "PV-S450",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "Z481",
+      "Label": "PVS450",
+      "Storage": {
+        "Data": "4 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2000-07-18",
+      "Kind": "X86",
+      "Name": "PV-750 Plus",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "Z488",
+      "Label": "PV750P",
+      "Storage": {
+        "Data": "2 MB"
+      },
+      "Ports": [
+        "RS-232",
+        "IrDA"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2001-04-13",
+      "Kind": "X86",
+      "Name": "PV-S460",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "G500",
+      "Label": "PVS460",
+      "Storage": {
+        "Data": "4 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2001-04-13",
+      "Kind": "X86",
+      "Name": "PV-S660",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "G500",
+      "Label": "PVS660",
+      "Storage": {
+        "Data": "6 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "Europe"
+    },
+    {
+      "Changed": "2001-04-19",
+      "Kind": "X86",
+      "Name": "PV-S400 Plus",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "G501",
+      "Label": "PVS400",
+      "Storage": {
+        "Data": "4 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "USA"
+    },
+    {
+      "Changed": "2001-04-19",
+      "Kind": "X86",
+      "Name": "PV-S600 Plus",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "G501",
+      "Label": "PVS600",
+      "Storage": {
+        "Data": "6 MB"
+      },
+      "Ports": [
+        "RS-232"
+      ],
+      "CPU": "NEC V30MZ",
+      "Market": "USA"
+    },
+    {
+      "Changed": "2002-08-29",
+      "Kind": "SH3",
+      "Name": "PV-S1600",
+      "Display": {
+        "Width": 160,
+        "Height": 160
+      },
+      "Internal": "H32",
+      "Label": "PVS1600",
+      "Storage": {
+        "Data": "12 MB"
+      },
+      "Ports": [
+        "USB1"
+      ],
+      "CPU": "Hitachi SH-3",
+      "Market": "World"
+    }
+  ]
+}
